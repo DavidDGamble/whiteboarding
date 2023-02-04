@@ -1,3 +1,4 @@
+```
 // write an alg to check if strings are unique
 // cant convert to array or use array methods
 // input always a string no funny stuff
@@ -27,3 +28,4 @@ const isUnique = (string) => {
   
   
 // function isUnique (string, unique = true)
+```
